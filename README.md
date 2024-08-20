@@ -12,7 +12,7 @@ I am a Software Engineer with hands-on experience in building robust application
 - 🔧 Experienced in building robust applications with a strong foundation in Java, Spring, Hibernate, JPA, JDBC, and SQL.
 
   
-## 📄 My Paper
+## My Articles
 - [Content Creation for Touristic Portals using ChatGPT](#) 
 
 ## Tech Stack
@@ -30,7 +30,7 @@ I am a Software Engineer with hands-on experience in building robust application
 
 ## 📬 Get in Touch
 
-- Connect with me on [LinkedIn](#https://www.linkedin.com/in/lampis-papantoniou-146014226/) 
+- Connect with me on [LinkedIn](#https://www.linkedin.com/in/lampis-papantoniou/) 
 - Check out more about my work and interests on [GitHub](https://github.com/l-papantoniou) 
 
 Thanks for stopping by! I'm excited to connect and explore new opportunities in software development together. 🚀
