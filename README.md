@@ -14,12 +14,12 @@ I am a Software Engineer with hands-on experience in building robust application
 - 🔧 Experienced in building robust applications with a strong foundation in Java, Spring, Hibernate, JPA, JDBC, and SQL.
 
   
-## My Articles
+## My Paper
 - [Content Creation for Touristic Portals using ChatGPT](#)
   
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,git,linux,docker&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,git,linux,k8s,docker&theme=dark)](https://skillicons.dev)
 
 
 ## 🌱 Currently Exploring
