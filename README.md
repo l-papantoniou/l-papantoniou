@@ -33,7 +33,7 @@ I am a Software Engineer with hands-on experience in building robust application
 
 ## 📬 Get in Touch
 
-- Connect with me on [LinkedIn](linkedin.com/in/lampis-papantoniou-146014226) 
+- Connect with me on [LinkedIn]([linkedin.com/in/lampis-papantoniou-146014226](https://www.linkedin.com/in/lampis-papantoniou-146014226)) 
 - Check out more about my work and interests on [GitHub](https://github.com/l-papantoniou) 
 
 Thanks for stopping by! I'm excited to connect and explore new opportunities in software development together. 🚀
